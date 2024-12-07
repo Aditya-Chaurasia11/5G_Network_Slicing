@@ -21,9 +21,11 @@ This project simulates a 5G network environment with multiple base stations, cli
 4. **Statistical Analysis**: Collecting and analyzing data to evaluate network performance
 
 # 📑 Project-Report
-
+- [Report]()
+  
 # 🎥 Demo-Video
-
+- [Demonstration](https://drive.google.com/file/d/1DKjE7iUvIFnvTOJ7540KYyJ0qT_TXj-f/view?usp=sharing)
+  
 # 🚀 Getting started
 To get started, you can clone the repository and set up your local environment. Ensure you have Python 3.8+ installed.
 
