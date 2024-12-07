@@ -20,9 +20,9 @@ Prerequisites
 
 Installation
 1. Clone the repository:
-git clone 
-cd 
-2. Install the necessary dependencies:
+git clone https://github.com/Aditya-Chaurasia11/5G_Project.git
+cd slicesim
+3. Install the necessary dependencies:
 pip install -r requirements.txt
-3. Run the main simulation script:
+4. Run the main simulation script:
 python __main__.py
