@@ -1,6 +1,8 @@
 # 5G Network Slicing Simulation Project
 Welcome to the 5G Network Slicing Simulation project! This repository contains a comprehensive simulation framework to study network slicing in 5G networks, addressing key aspects like resource allocation, mobility management, QoS enforcement, and statistical analysis. Below you'll find a detailed overview of the project, its components, and the underlying theories applied.
 
+# Mentor
+Dr. Bhupendra Kumar
 
 # 🖥️ Group Information
 Gr45EC431
@@ -21,7 +23,7 @@ This project simulates a 5G network environment with multiple base stations, cli
 4. **Statistical Analysis**: Collecting and analyzing data to evaluate network performance
 
 # 📑 Project-Report
-- [Report]()
+- [Report](https://www.overleaf.com/read/qvmvvpspgxcq#cd0424)
   
 # 🎥 Demo-Video
 - [Demonstration](https://drive.google.com/file/d/1DKjE7iUvIFnvTOJ7540KYyJ0qT_TXj-f/view?usp=sharing)
