@@ -24,7 +24,7 @@ Installation
 git clone https://github.com/Aditya-Chaurasia11/5G_Project.git
 ```
 ```bash
-cd slicesim
+cd 5G_Project
 ```
 3. Install the necessary dependencies:
 ```bash
@@ -32,5 +32,5 @@ pip install -r requirements.txt
 ```
 5. Run the main simulation script:
 ```bash
-python __main__.py
+python -m slicesim example-input.yml
 ```
